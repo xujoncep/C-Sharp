@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System.Text;
 //Console.WriteLine("Hello, World!");
 //Console.WriteLine(" Using Visual Studio");
 
@@ -172,3 +172,55 @@
 //string LastName = " Doe";
 //string Name = $"Your full name is: {FirstName} {LastName}";
 //Console.WriteLine(Name);
+
+//string access
+
+//string name = "StringManipulaton";
+//Console.WriteLine(name[0]);
+//Console.WriteLine(name.Substring(0,6));
+
+////searching
+//Console.WriteLine(name.Contains("Str"));  // this also case sensitive
+
+////replace
+//Console.WriteLine(name.Replace("Mani","Uni"));
+
+//remove 
+//string name = "StringManipulaton";
+//Console.WriteLine(name.Remove(6));
+//Console.WriteLine(name.Remove(6,name.Length-6));
+
+//spilting and joining 
+
+//string text = "This is a dummy text for texting";
+//string[] words = text.Split(' ');
+//foreach (string word in words)
+//{
+//    Console.WriteLine(word);
+//}
+
+//string TextAgain =String.Join(" ", words);
+//Console.WriteLine(TextAgain);
+
+//Console.WriteLine(String.Compare("Hello", "pello")); //this is not case sensitive
+
+//string builder
+
+
+
+//StringBuilder sb = new StringBuilder();
+//sb.Append("Hello");
+//sb.Append(" World");
+//string result = sb.ToString();  
+//Console.WriteLine(result);
+
+//parsing
+
+//int number = 330;
+//string numberString = number.ToString();
+//Console.WriteLine(numberString.GetType());
+
+//int num = int.Parse(numberString);
+//Console.WriteLine(num.GetType());
+
+
