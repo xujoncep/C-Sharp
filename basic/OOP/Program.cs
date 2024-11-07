@@ -108,11 +108,11 @@ class Dog:Animal
             //Cow cow = new Cow();
             //    cow.Sound();
             //    cow.Run();
-            string MyText = "this is a file text";
-            string folderPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
-            string filepath = Path.Combine(folderPath, "file.txt");
+            //string MyText = "this is a file text";
+            //string folderPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            //string filepath = Path.Combine(folderPath, "file.txt");
             
-            File.WriteAllText(filepath, MyText);
+            //File.WriteAllText(filepath, MyText);
 
         }
 
