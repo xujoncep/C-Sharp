@@ -1,4 +1,7 @@
-﻿namespace Fundamental
+﻿using System.Text;
+using System.IO;
+
+namespace Fundamental
 {
     class Program
     {
@@ -176,11 +179,11 @@
 
         //    //Console.WriteLine("Enter your matrix collum: ");
         //    //int col = Convert.ToInt32(Console.ReadLine());
-            
+
         //    //int [,]martix = new int[row, col];
 
         //    //Console.WriteLine("Great! Enter your matrix");
-            
+
         //    ////input loop
         //    //for (int i = 0;i<row;i++)
         //    //{
@@ -211,7 +214,7 @@
         //    ////get index
         //    //int index = Array.IndexOf(numbers, 4);
         //    //Console.WriteLine($" index of 4 is: {index}");
-            
+
         //    ////clear
         //    //Array.Clear(numbers,2,1);
         //    //foreach(int i in numbers) Console.WriteLine(i);
@@ -232,7 +235,7 @@
 
         //    //work with List
         //    var number = new List<int>() { 1, 33, 34, 4, 32, 32,2,2,1,343,23,2,1 };
-           
+
         //    //number.Add(1);
 
         //    //var arr = new int[] { 2, 23, 43 };
@@ -264,26 +267,118 @@
 
         //section-07-date and time
 
-        static void Main(string[] args)
-        {
-            var dateTime = new DateTime(2024, 12, 12);  //datetime is immutable
-            var now = DateTime.Now;
-            var today = DateTime.Today;
+        //static void Main(string[] args)
+        //{
+        //    var dateTime = new DateTime(2024, 12, 12);  //datetime is immutable
+        //    var now = DateTime.Now;
+        //    var today = DateTime.Today;
 
-            //Console.WriteLine("Current Year: " + now.Year);
-            //Console.WriteLine("Current Month: " + now.Month);
-            //Console.WriteLine("Current Day: " + now.Day);
-            //Console.WriteLine("Current Hour: "+ now.Hour);
-            //Console.WriteLine("Current Min: " + now.Minute);
-            //Console.WriteLine("Current Second: " + now.Second);
+        //    //Console.WriteLine("Current Year: " + now.Year);
+        //    //Console.WriteLine("Current Month: " + now.Month);
+        //    //Console.WriteLine("Current Day: " + now.Day);
+        //    //Console.WriteLine("Current Hour: "+ now.Hour);
+        //    //Console.WriteLine("Current Min: " + now.Minute);
+        //    //Console.WriteLine("Current Second: " + now.Second);
 
-            Console.WriteLine(now.ToLongDateString());
-            Console.WriteLine(now.ToShortDateString());
-            Console.WriteLine(now.ToLongTimeString());
-            Console.WriteLine(now.ToShortTimeString());
-            Console.WriteLine(now.ToString("G"));
+        //    Console.WriteLine(now.ToLongDateString());
+        //    Console.WriteLine(now.ToShortDateString());
+        //    Console.WriteLine(now.ToLongTimeString());
+        //    Console.WriteLine(now.ToShortTimeString());
+        //    Console.WriteLine(now.ToString("G"));
 
-        }
+        //}
+
+        // section-08-working with text
+
+        //static void Main(string[] args)  // string are immutable beacuse they do not modified anything after cr
+        //{
+        //    //float numbr = 21.45f;
+        //    //Console.WriteLine(numbr);
+
+        //    //var sentence = "this is very big sentence for testing the summary of this code.";
+        //    //const int max = 10;
+
+        //    //if (sentence.Length < max) 
+        //    //{
+        //    //    Console.WriteLine(sentence);
+        //    //}
+
+        //    //else
+        //    //{
+        //    //    var words =sentence.Split(' ');
+        //    //    var totalChar =0;
+        //    //    var summaryWords = new List<string>();
+
+        //    //    foreach (var word in words)
+        //    //    {
+        //    //        summaryWords.Add(word);
+        //    //        totalChar += word.Length+1;
+        //    //        if (totalChar > max) 
+        //    //            break;
+        //    //    }
+
+        //    //    var summary = String .Join(" ", summaryWords) + ". . . . ";
+        //    //    Console.WriteLine(summary);
+        //    //}
+
+        //    //works with string builder
+        //    var testBuilder = new StringBuilder();
+
+        //    testBuilder.Append('-', 20);
+        //    testBuilder.AppendLine();
+        //    testBuilder.Append("Header");
+        //    testBuilder.AppendLine();
+        //    testBuilder.Append('-', 20);
+        //    testBuilder.Replace('-', '%');
+        //    testBuilder.AppendLine();
+        //    testBuilder.Append("this is the body of this string builder. it works very finely");
+        //    testBuilder.AppendLine();
+        //    testBuilder.Append('-', 20);
+
+        //    Console.WriteLine(testBuilder);
+
+        //}
+        //works with files 
+
+        //static void Main(string[] args)
+        //{
+        //    //// FileInfo provides instance methods, Files provides static method.
+
+        //    //string dummy = "This is  a dummy text for testing the file operation in file handelling";
+        //    //// Create a file with content
+        //    //File.WriteAllText("example.txt", dummy);
+
+        //    //// Read content from a file
+        //    //string content = File.ReadAllText("example.txt");
+        //    //Console.WriteLine(content);
+
+        //    //// Check if a file exists
+        //    //if (File.Exists("example.txt"))
+        //    //{
+        //    //    Console.WriteLine("File exists.");
+        //    //}
+
+        //    //// Delete a file
+        //    //File.Delete("example.txt");
+
+
+        //    //var files = Directory.GetFiles(@"D:\C#", "*.*", SearchOption.AllDirectories);
+
+        //    //foreach (var file in files)
+        //    //{
+        //    //    Console.WriteLine(file);
+        //    //}
+
+        //    var path = @"C:projects\folder\hello.sln";
+        //    var dotindex = path.IndexOf('.');
+        //    var extension = path.Substring(dotindex);
+        //    Console.WriteLine("Extension: "+ Path.GetExtension(path));
+        //    Console.WriteLine("File name:" + Path.GetFileNameWithoutExtension(path));
+
+        //}
+
+        //Debugging application
+
 
     }
 }
