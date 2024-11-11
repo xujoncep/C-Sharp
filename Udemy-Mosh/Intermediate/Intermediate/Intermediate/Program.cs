@@ -4,7 +4,6 @@
     {
 
 
-
         static void Main(string[] args)
         {
             //Person
@@ -57,6 +56,57 @@
 
             //    Console.WriteLine("error occur");
             //}
+
+
+            //readonly field
+            //var customer = new Customer(id: 1, name: "jhon");
+            //customer.Orders.Add(new Order());
+            //customer.Orders.Add(new Order());
+            ////customer.Promote();
+            //Console.WriteLine(customer.Orders.Count);
+
+            //Access Modifier private
+            //var person = new Person();
+            //person.SetBirthdate(DateTime.Now);
+            //Console.WriteLine(person.GetBirthdate());
+
+
+            ////get set properties
+            //var person = new Person(new DateTime(1998, 12, 12));
+            //Console.WriteLine(person.Age);
+
+            
+            //indexer example
+
+            //var cookie = new HttpCookie();
+            //cookie["name"] = "jhon";
+            //Console.WriteLine(cookie["name"]);
+
+
+            //stopwatch without readonly
+            
+            //var timespan = new StopWatch();
+            //timespan.Start();
+
+            //Console.WriteLine("Press any key to Stop....");
+            //Console.ReadKey();
+            //var stop = timespan.Stop();
+
+            //Console.WriteLine( timespan.GetTime(timespan.StartTime, stop));
+
+
+            //stopwatch with readonly
+
+            var stopwatch = new StopWatch();
+
+            Console.WriteLine("Press any Key to start:");
+            Console.ReadKey();
+            stopwatch.Start();
+            Console.WriteLine("Your Stop Watch is running. Press Any key to stop:");
+            Console.ReadKey();
+            Console.WriteLine("Congratulation! Your Stopwatch time is:" + stopwatch.Duiration);
+
+
 
         }
 
