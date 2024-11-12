@@ -149,25 +149,31 @@
 
 
         //section-4
+        //static void Main(string[] args)
+        //{
+        //    //var car = new Car();
+        //    //var car2 = new Car("XYZ123");
+
+        //    ////up casting
+        //    //var textshape = new TextShape();
+        //    //Shape shape = textshape; //typecasting
+        //    //textshape.Width = 200;
+        //    //shape.Width= 100;
+        //    //Console.WriteLine(textshape.Width); //typecasting 
+
+        //    //downcasting 
+
+        //    //Shape shape = new TextShape();
+        //    //TextShape text = (TextShape)shape;
+            
+        //}
+
+
+        //section-05-Polymorphism
         static void Main(string[] args)
         {
-            //var car = new Car();
-            //var car2 = new Car("XYZ123");
 
-            ////up casting
-            //var textshape = new TextShape();
-            //Shape shape = textshape; //typecasting
-            //textshape.Width = 200;
-            //shape.Width= 100;
-            //Console.WriteLine(textshape.Width); //typecasting 
 
-            //downcasting 
-
-            //Shape shape = new TextShape();
-            //TextShape text = (TextShape)shape;
-            
-
-            
         }
     }
     
