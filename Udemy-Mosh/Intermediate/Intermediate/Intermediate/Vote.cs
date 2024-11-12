@@ -1,9 +1,6 @@
 ﻿namespace Intermediate
 {
-   
-    public class Order
+    public class Vote
     {
-
     }
-    
 }
