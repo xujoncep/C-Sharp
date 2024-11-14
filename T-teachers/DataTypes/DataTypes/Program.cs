@@ -55,6 +55,7 @@
 //Console.WriteLine(dt);
 
 using System.Collections;
+using System.Xml.Linq;
 
 partial class Program
 {
@@ -233,8 +234,51 @@ partial class Program
     //    }
     //}
 
+
+
     static void Main(string[] args)
     {
+        //working with dictionary 
+
+        //var student = new List<Student>()
+        //{
+        //  new Student(id:1,name:"Mr A"),
+        //  new Student(id:1,name:"Mr X"),
+        //  new Student(id:2,name:"Mr B"),
+        //  new Student(id:3,name:"Mr C"),
+
+        //};
+
+        //object list print
+
+        //foreach (var item in student)
+        //{
+        //    Console.WriteLine($"Student Id:{item.Id} Student Name: {item.Name}");
+        //}
+
+        //Dictionary<int, string> dictionary = student.ToDictionary(p=>p.Id, p=>p.Name);
+
+        ////dictionary printing
+
+        //foreach (var item in dictionary)
+        //{
+        //    Console.WriteLine($"Key:{item.Key} Value: {item.Value}");
+        //}
+
+        //Dictionary<int, string> dictionary = new Dictionary<int, string>();
+
+        //foreach (var i in student)
+        //{
+        //    if (!dictionary.ContainsKey(i.Id))
+        //    {
+        //        dictionary.Add(i.Id, i.Name);
+        //    }
+
+        //    else
+        //    {
+        //        Console.WriteLine($"Duplicate id for {i.Name}");
+        //    }
+        //}
 
         var student = new List<Student>()
         {
@@ -242,20 +286,128 @@ partial class Program
           new Student(id:1,name:"Mr X"),
           new Student(id:2,name:"Mr B"),
           new Student(id:3,name:"Mr C"),
+          new Student(id:3,name:"Mr A"),
+          new Student(id:1,name:"Mr Y"),
 
         };
 
-        IDictionary<int, string> dictionary = new Dictionary<int, string>();
+        var dictionary = student
+                        .GroupBy(p => p.Id)
+                        .ToDictionary(g => g.Key, g => g.First().Name);
+
+      
 
         foreach (var item in dictionary)
         {
-            Console.WriteLine($"Key:{item.Key} Value: {item.Value}");
+            Console.WriteLine($"Key: {item.Key} Value:{item.Value}");
         }
 
-        //foreach (var item in student)
+
+        //Dictionary<int, List<string>> dictionary = student
+        //    .GroupBy(p => p.Id)
+        //    .ToDictionary(g => g.Key, g => g.Select(p => p.Name).ToList());
+
+
+
+
+
+        //foreach (var item in dictionary)
         //{
-        //    Console.WriteLine($"Student Id:{item.Id} Student Name: {item.Name}");
+        //    Console.WriteLine($"Key: {item.Key}");
+        //    foreach (var s in item.Value)
+        //    {
+        //        Console.WriteLine($"Name: {s}");
+        //    }
         //}
 
-    } 
+        ////Display the result
+        //foreach (var item in dictionary)
+        //{
+        //    Console.WriteLine($"Id: {item.Key}, Names: {string.Join(", ", item.Value)}");
+        //}
+
+
+        //var student = new List<Student>()
+        //{
+        //  new Student(id:1,name:"Mr A"),
+        //  new Student(id:1,name:"Mr X"),
+        //  new Student(id:2,name:"Mr B"),
+        //  new Student(id:3,name:"Mr C"),
+
+        //};
+
+        //var groupByKey= from s in student
+        //                group s by s.Id;
+
+        //foreach (var keyGroup in groupByKey )
+        //{
+        //    Console.WriteLine($" Key Group: {keyGroup.Key}");
+        //    foreach(Student s in keyGroup)
+        //    {
+        //        Console.WriteLine($"Name: {s.Name}");
+        //    }
+        //}
+
+
+    }
+
+
+    //static void Main(string[] args)
+    //{
+    //    //LINQ in array
+
+    //    // string[] names ={ "Bill", "Steve", "James", "Jhon","bob","Bill" };
+
+    //    // var myLinq = from name in names
+    //    //              where name.Length >4
+    //    //              select name;
+
+    //    //foreach(var name in myLinq)
+    //    // {
+    //    //     Console.WriteLine(name);
+    //    // }
+
+    //    //Linq in List 
+
+    //    //List<string> stringList = new List<string>()
+    //    //{
+    //    //    "C# videos",
+    //    //    "C blog",
+    //    //    "html videos",
+    //    //    "java blog",
+    //    //};
+
+    //    // var myLinq2 = from item in stringList
+    //    //              where item.Contains("C") || item.Contains("java")
+    //    //              select item;
+
+    //    // foreach(var item in myLinq2)
+    //    // {
+    //    //     Console.WriteLine(item);
+    //    // }
+
+    //    // Student collection
+    //    //List<Student> studentList = new List<Student>() {
+    //    //new Student(id : 1, name : "John", age : 13),
+    //    //new Student(id : 2, name : "Moin", age : 21),
+    //    //new Student(id : 3, name : "Bill", age : 18),
+    //    //new Student(id : 4, name : "Ram", age : 20),
+    //    //new Student(id : 5, name : "Ron", age : 15),
+    //    //};
+
+
+    //    //var myLinq = from s in studentList   //Linq Query syntax 
+    //    //             where s.Age >= 20 && s.Name.Contains("in")
+    //    //             select s;
+
+    //    //var myLinq2 = studentList.Where( s => s.Age >= 20 && s.Name.Contains("in")); //Linq Method syntax
+
+
+    //    //foreach ( var s in myLinq2)
+    //    //{
+    //    //    Console.WriteLine(s.Name);
+    //    //}
+
+
+    //}
 }
