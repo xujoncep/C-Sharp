@@ -8,7 +8,7 @@ namespace NhibernateMvcApp.Data
 {
     public static class ConnContext
     {
-        private static ISessionFactory _sessionFactory;
+        private static ISessionFactory? _sessionFactory;
         
 
         public static ISessionFactory SessionFactory

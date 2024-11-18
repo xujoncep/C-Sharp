@@ -7,13 +7,13 @@ namespace NhibernateFirstCrud.Mappings
     {
         public UserMap()
         {
-            
+            Table("Users");
             Id(x => x.Id);
             Map(x => x.Name);
             Map(x => x.Email);
             References(x => x.Role)
                 .Cascade.All();
-            Table("Users");
+           
         }
     }
 }

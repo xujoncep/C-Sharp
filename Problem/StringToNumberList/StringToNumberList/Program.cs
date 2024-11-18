@@ -50,14 +50,22 @@ internal class Program
 
 
         // Method 02: Short Way
-
         string number = "12,14,20,5,8,3";
         //List<int> strList = number.Split(',').Select(int.Parse).ToList();
         Stack<int> intStack = new Stack<int>(number.Split(',').Select(int.Parse));
+        Console.WriteLine("Printing element of stack:");
         foreach (int str in intStack)
         {
             Console.WriteLine(str);
         }
-
+      
+        
+        Console.WriteLine("Poping element of stack:");
+        int Length = intStack.Count;
+        
+        for (int i = 0; i < Length; i++)  
+        {
+            Console.WriteLine(intStack.Pop());
+        }
     }
 }
