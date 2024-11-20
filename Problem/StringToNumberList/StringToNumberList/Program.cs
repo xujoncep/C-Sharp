@@ -61,11 +61,16 @@ internal class Program
       
         
         Console.WriteLine("Poping element of stack:");
-        int Length = intStack.Count;
-        
-        for (int i = 0; i < Length; i++)  
-        {
-            Console.WriteLine(intStack.Pop());
+        //int Length = intStack.Count;
+
+        //for (int i = 0; i < Length; i++)  
+        //{
+        //    Console.WriteLine(intStack.Pop());
+        //}
+
+        while (intStack.Any())
+        {            
+                Console.WriteLine(intStack.Pop());
         }
     }
 }
