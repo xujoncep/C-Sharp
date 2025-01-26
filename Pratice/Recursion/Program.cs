@@ -47,7 +47,7 @@
          
         }
 
-        // Print number digits 
+        // Print number digits separately
 
         public static void Digit(int number)
         {
