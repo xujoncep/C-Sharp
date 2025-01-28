@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "..\Linq\Linq.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-Sharp-String", "..\C-Sharp-String\C-Sharp-String.csproj", "{1BCDA76A-EACA-448E-B891-EDCD68E237BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-Sharp-Array", "..\C-Sharp-Array\C-Sharp-Array.csproj", "{2AB0CF45-E759-43E3-A7A5-6707E60EA02C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{1BCDA76A-EACA-448E-B891-EDCD68E237BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BCDA76A-EACA-448E-B891-EDCD68E237BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BCDA76A-EACA-448E-B891-EDCD68E237BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AB0CF45-E759-43E3-A7A5-6707E60EA02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB0CF45-E759-43E3-A7A5-6707E60EA02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB0CF45-E759-43E3-A7A5-6707E60EA02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB0CF45-E759-43E3-A7A5-6707E60EA02C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

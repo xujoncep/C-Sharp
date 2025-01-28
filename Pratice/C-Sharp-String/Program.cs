@@ -99,6 +99,8 @@ namespace C_Sharp_String
             //    subStrings.Append(" ");
             //}
 
+            double a = 5 / 2;
+
         }
     }
 }
