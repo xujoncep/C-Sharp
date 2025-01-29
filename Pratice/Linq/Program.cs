@@ -9,27 +9,27 @@ namespace Linq
         {
             Console.WriteLine("Hello, World!");
 
-            List<Customer> customers = new List<Customer>
-            {
-                new Customer { Id = 1, Name = "Jhon", Age = 12},
-                new Customer { Id = 2, Name = "Bob", Age = 15},
-                new Customer { Id = 3, Name = "Alice", Age = 20}
-            };
+            //List<Customer> customers = new List<Customer>
+            //{
+            //    new Customer { Id = 1, Name = "Jhon", Age = 12},
+            //    new Customer { Id = 2, Name = "Bob", Age = 15},
+            //    new Customer { Id = 3, Name = "Alice", Age = 20}
+            //};
 
-            List<Order> orders = new List<Order>
-            {
-                new Order { OrderId = 101, CustomerId = 1, Address = "Karwan bazar, dhaka" },
-                new Order { OrderId = 102, CustomerId = 2, Address = "Mirpur, dhaka" },
-                new Order { OrderId = 103, CustomerId = 1, Address = "Badda, dhaka" },
-                new Order { OrderId = 104, CustomerId = 3, Address = "DhanMondi, dhaka" }
-            };
+            //List<Order> orders = new List<Order>
+            //{
+            //    new Order { OrderId = 101, CustomerId = 1, Address = "Karwan bazar, dhaka" },
+            //    new Order { OrderId = 102, CustomerId = 2, Address = "Mirpur, dhaka" },
+            //    new Order { OrderId = 103, CustomerId = 1, Address = "Badda, dhaka" },
+            //    new Order { OrderId = 104, CustomerId = 3, Address = "DhanMondi, dhaka" }
+            //};
 
-            var result = customers.Where(c => c.Age > 12 && c.Age < 30);
+            //var result = customers.Where(c => c.Age > 12 && c.Age < 30);
 
-            var arrayList = new ArrayList() { 123, 23, true, false, "alice" };
-            arrayList.Add(true);
-            arrayList.Add("Jhon");
-            arrayList.Add(12);
+            //var arrayList = new ArrayList() { 123, 23, true, false, "alice" };
+            //arrayList.Add(true);
+            //arrayList.Add("Jhon");
+            //arrayList.Add(12);
             //var result = arrayList.OfType<int>();
 
             //var result = orders.OrderBy( d => d.OrderId ).ThenByDescending( d => d.Address).ToList();

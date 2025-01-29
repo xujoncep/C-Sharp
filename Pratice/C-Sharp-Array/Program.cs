@@ -1,4 +1,6 @@
-﻿namespace C_Sharp_Array
+﻿using System.Collections;
+
+namespace C_Sharp_Array
 {
     internal class Program
     {
@@ -66,12 +68,55 @@
 
                 }
             }
+            
+            //Finding Multiplication is 200
 
-            int[] testArry = { 10, 20, 12, 23, 24, 25, 26, 27 };
-            var result = testArry.Aggregate(0, (x, y) => x * y);
+            int[] testArry = { 10, 20, 12, 23 };
+            var ansElement = new ArrayList();
+            int index = 1;
+            foreach (var item in testArry)
+            {
+                
+                for(int i = index; i < testArry.Length;i++)
+                {
+                    if (item*testArry[i] ==200)
+                    {
+                        ansElement.Add(item);
+                        ansElement.Add(testArry[i]);
+                    }
+                }
+                index++;
+            }
 
+            //Reverse an Array
 
+            int[] orininalArray = { 1, 3, 3, 4, 4, 5, 6, 2 };
+            int[] reverseArray = new int[orininalArray.Length];
+            for(int i = orininalArray.Length-1, j = 0; i >= 0; i--, j++)
+            {
+                reverseArray[j] = orininalArray[i];
+            }
 
+            Console.WriteLine("Orizinal Array");
+            foreach (var item in orininalArray)
+            {
+                Console.Write(item + " ");
+            }
+
+            Console.WriteLine("\nReverse Array");
+            foreach (var item in reverseArray)
+            {
+                Console.Write(item + " ");
+            }
+            Array.ForEach(reverseArray,item => Console.Write(item + " "));
+
+            // Binary Search Iterration 
+            int[] sortArray = { 1, 2, 3, 4, 6, 8, 9, 33 };
+
+            var res = BinarySearchRecursive(sortArray, 8, 0, sortArray.Length - 1);
+            //var res2 = BinarySearch(sortArray, 8);
+
+            Console.WriteLine($"Recursive : {res} \n Iterative:  ");
             Console.ReadKey();
         }
 
@@ -94,6 +139,58 @@
                 sum += i;
             }
             return sum;
+        }
+
+        public static int BinarySearch(int[] array, int item)
+        {
+            int left = 0;
+            int right = array.Length - 1;
+            int middle = (left + right) / 2;
+
+            while (left <= right)
+            {
+                if (array[middle] == item)
+                {
+                    return middle;
+                }
+
+                else if (item < array[middle])
+                {
+                    right = middle - 1;
+                }
+
+                else if (item > array[middle])
+                {
+                    left = middle + 1;
+                }
+
+            }
+            return -1;
+        }
+
+        public static int BinarySearchRecursive(int[] array, int item, int left , int right)
+        {
+            int middle = (left + right) / 2;
+            while (left <= right )
+            {
+                if (array[middle] == item)
+                {
+                    return middle;
+                }
+                else if (item < array[middle])
+                {
+                    return BinarySearchRecursive(array, item, left, middle - 1);
+                   
+                }
+                else if (item > array[middle])
+                {
+                   return BinarySearchRecursive(array , item, middle + 1, right);
+                    
+                }
+
+            }
+
+            return -1;
         }
     }
 }
