@@ -30,7 +30,7 @@ namespace ThrowAndThrowEx
 
         static void First()
         {
-            Console.WriteLine("Hello first");
+            Console.WriteLine("Hello First");
             try
             {
                 Second();
