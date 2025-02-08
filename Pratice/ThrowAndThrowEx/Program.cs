@@ -10,13 +10,21 @@ namespace ThrowAndThrowEx
 
             try
             {
-             First();
+                First();
             }
             catch (Exception ex)
             {
 
                 Console.WriteLine(ex.StackTrace);
             }
+
+            //Parse vs TryParse Vs Convert
+            //string invalid = null;
+            //int num = int.Parse(invalid);
+            //int num = Convert.ToInt32(invalid);
+            //bool num1 = int.TryParse(invalid, out int num);
+            
+            Console.ReadKey();
         }
 
 

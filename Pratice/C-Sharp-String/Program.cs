@@ -8,6 +8,11 @@ namespace C_Sharp_String
         {
             Console.WriteLine("Hello, World!");
 
+            // Duplicate letter remove using ToCharArray() Method
+            string string1 = "Hellooo";
+            var stringArray= string1.ToCharArray();
+            var stringArray2 = stringArray.Distinct();
+
             //Reverse a single Given string 
             string names = "sahabuddin";
             Console.WriteLine("Original: " + names);
