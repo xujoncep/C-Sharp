@@ -117,6 +117,11 @@ namespace C_Sharp_Array
             //var res2 = BinarySearch(sortArray, 8);
 
             Console.WriteLine($"Recursive : {res} \n Iterative:  ");
+
+            //Array Last item print
+            char[] latter = new char[] { 'a', 'e', 'i', 'o', 'u' };
+
+            Console.WriteLine(latter[^1]);
             Console.ReadKey();
         }
 
