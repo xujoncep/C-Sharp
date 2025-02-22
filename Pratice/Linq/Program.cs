@@ -7,6 +7,19 @@ namespace Linq
     {
         static void Main(string[] args)
         {
+            List<int> intList = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            //Method Syntax
+            var OddNumbersWithIndexPosition = intList.Select((num, index) => new
+            {
+                Numbers = num,
+                IndexPosition = index
+            });
+
+            foreach ( var number in OddNumbersWithIndexPosition )
+            {
+                Console.WriteLine( number );
+            }
+
             Console.WriteLine("Hello, World!");
 
             //List<Customer> customers = new List<Customer>

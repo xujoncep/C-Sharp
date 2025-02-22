@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "..\LinkedList
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawStringVsVerbatrim", "..\RawStringVsVerbatrim\RawStringVsVerbatrim.csproj", "{45027546-357B-4107-9545-FF180A7B9FF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTypeVSReferenceType", "..\ValueTypeVSReferenceType\ValueTypeVSReferenceType.csproj", "{2CE16136-98F3-4261-9507-04560D7073B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{45027546-357B-4107-9545-FF180A7B9FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45027546-357B-4107-9545-FF180A7B9FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45027546-357B-4107-9545-FF180A7B9FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE16136-98F3-4261-9507-04560D7073B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE16136-98F3-4261-9507-04560D7073B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE16136-98F3-4261-9507-04560D7073B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE16136-98F3-4261-9507-04560D7073B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
