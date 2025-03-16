@@ -106,6 +106,11 @@ namespace C_Sharp_String
 
             double a = 5 / 2;
 
+            //foreach(char item in "Hello")
+            //{
+            //    Console.WriteLine();
+            //}
+
         }
     }
 }
