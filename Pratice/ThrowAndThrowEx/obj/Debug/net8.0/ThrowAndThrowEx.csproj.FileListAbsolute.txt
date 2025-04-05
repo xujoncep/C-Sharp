@@ -1,0 +1,15 @@
+D:\C#\Pratice\ThrowAndThrowEx\bin\Debug\net8.0\ThrowAndThrowEx.exe
+D:\C#\Pratice\ThrowAndThrowEx\bin\Debug\net8.0\ThrowAndThrowEx.deps.json
+D:\C#\Pratice\ThrowAndThrowEx\bin\Debug\net8.0\ThrowAndThrowEx.runtimeconfig.json
+D:\C#\Pratice\ThrowAndThrowEx\bin\Debug\net8.0\ThrowAndThrowEx.dll
+D:\C#\Pratice\ThrowAndThrowEx\bin\Debug\net8.0\ThrowAndThrowEx.pdb
+D:\C#\Pratice\ThrowAndThrowEx\obj\Debug\net8.0\ThrowAndThrowEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Pratice\ThrowAndThrowEx\obj\Debug\net8.0\ThrowAndThrowEx.AssemblyInfoInputs.cache
+D:\C#\Pratice\ThrowAndThrowEx\obj\Debug\net8.0\ThrowAndThrowEx.AssemblyInfo.cs
+D:\C#\Pratice\ThrowAndThrowEx\obj\Debug\net8.0\ThrowAndThrowEx.csproj.CoreCompileInputs.cache
+D:\C#\Pratice\ThrowAndThrowEx\obj\Debug\net8.0\ThrowAndThrowEx.sourcelink.json
+D:\C#\Pratice\ThrowAndThrowEx\obj\Debug\net8.0\ThrowAndThrowEx.dll
+D:\C#\Pratice\ThrowAndThrowEx\obj\Debug\net8.0\refint\ThrowAndThrowEx.dll
+D:\C#\Pratice\ThrowAndThrowEx\obj\Debug\net8.0\ThrowAndThrowEx.pdb
+D:\C#\Pratice\ThrowAndThrowEx\obj\Debug\net8.0\ThrowAndThrowEx.genruntimeconfig.cache
+D:\C#\Pratice\ThrowAndThrowEx\obj\Debug\net8.0\ref\ThrowAndThrowEx.dll

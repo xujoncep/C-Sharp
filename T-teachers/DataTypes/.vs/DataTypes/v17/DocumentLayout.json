@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\T-teachers\\DataTypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1F75E0-78BF-4953-9CF7-1E2C6F66DA92}|Directory\\Directory.csproj|d:\\c#\\t-teachers\\datatypes\\directory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C1F75E0-78BF-4953-9CF7-1E2C6F66DA92}|Directory\\Directory.csproj|solutionrelative:directory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E6568B-E737-4307-AC08-14822B43DF60}|DataTypes\\DataTypes.csproj|d:\\c#\\t-teachers\\datatypes\\datatypes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E6568B-E737-4307-AC08-14822B43DF60}|DataTypes\\DataTypes.csproj|solutionrelative:datatypes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E6568B-E737-4307-AC08-14822B43DF60}|DataTypes\\DataTypes.csproj|d:\\c#\\t-teachers\\datatypes\\datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E6568B-E737-4307-AC08-14822B43DF60}|DataTypes\\DataTypes.csproj|solutionrelative:datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E6568B-E737-4307-AC08-14822B43DF60}|DataTypes\\DataTypes.csproj|d:\\c#\\t-teachers\\datatypes\\datatypes\\pointclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E6568B-E737-4307-AC08-14822B43DF60}|DataTypes\\DataTypes.csproj|solutionrelative:datatypes\\pointclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\T-teachers\\DataTypes\\Directory\\Program.cs",
+              "RelativeDocumentMoniker": "Directory\\Program.cs",
+              "ToolTip": "D:\\C#\\T-teachers\\DataTypes\\Directory\\Program.cs",
+              "RelativeToolTip": "Directory\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:16:48.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PointClass.cs",
+              "DocumentMoniker": "D:\\C#\\T-teachers\\DataTypes\\DataTypes\\PointClass.cs",
+              "RelativeDocumentMoniker": "DataTypes\\PointClass.cs",
+              "ToolTip": "D:\\C#\\T-teachers\\DataTypes\\DataTypes\\PointClass.cs",
+              "RelativeToolTip": "DataTypes\\PointClass.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:15:19.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#\\T-teachers\\DataTypes\\DataTypes\\Student.cs",
+              "RelativeDocumentMoniker": "DataTypes\\Student.cs",
+              "ToolTip": "D:\\C#\\T-teachers\\DataTypes\\DataTypes\\Student.cs",
+              "RelativeToolTip": "DataTypes\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:27:22.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\T-teachers\\DataTypes\\DataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "DataTypes\\Program.cs",
+              "ToolTip": "D:\\C#\\T-teachers\\DataTypes\\DataTypes\\Program.cs",
+              "RelativeToolTip": "DataTypes\\Program.cs",
+              "ViewState": "AgIAAHgBAAAAAAAAAAAYwEwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:46:11.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

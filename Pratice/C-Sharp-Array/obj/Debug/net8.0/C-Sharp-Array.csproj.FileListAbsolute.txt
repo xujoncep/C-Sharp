@@ -1,0 +1,15 @@
+D:\C#\Pratice\C-Sharp-Array\bin\Debug\net8.0\C-Sharp-Array.exe
+D:\C#\Pratice\C-Sharp-Array\bin\Debug\net8.0\C-Sharp-Array.deps.json
+D:\C#\Pratice\C-Sharp-Array\bin\Debug\net8.0\C-Sharp-Array.runtimeconfig.json
+D:\C#\Pratice\C-Sharp-Array\bin\Debug\net8.0\C-Sharp-Array.dll
+D:\C#\Pratice\C-Sharp-Array\bin\Debug\net8.0\C-Sharp-Array.pdb
+D:\C#\Pratice\C-Sharp-Array\obj\Debug\net8.0\C-Sharp-Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Pratice\C-Sharp-Array\obj\Debug\net8.0\C-Sharp-Array.AssemblyInfoInputs.cache
+D:\C#\Pratice\C-Sharp-Array\obj\Debug\net8.0\C-Sharp-Array.AssemblyInfo.cs
+D:\C#\Pratice\C-Sharp-Array\obj\Debug\net8.0\C-Sharp-Array.csproj.CoreCompileInputs.cache
+D:\C#\Pratice\C-Sharp-Array\obj\Debug\net8.0\C-Sharp-Array.sourcelink.json
+D:\C#\Pratice\C-Sharp-Array\obj\Debug\net8.0\C-Sharp-Array.dll
+D:\C#\Pratice\C-Sharp-Array\obj\Debug\net8.0\refint\C-Sharp-Array.dll
+D:\C#\Pratice\C-Sharp-Array\obj\Debug\net8.0\C-Sharp-Array.pdb
+D:\C#\Pratice\C-Sharp-Array\obj\Debug\net8.0\C-Sharp-Array.genruntimeconfig.cache
+D:\C#\Pratice\C-Sharp-Array\obj\Debug\net8.0\ref\C-Sharp-Array.dll

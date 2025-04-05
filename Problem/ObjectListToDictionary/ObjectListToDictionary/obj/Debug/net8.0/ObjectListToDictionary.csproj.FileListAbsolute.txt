@@ -1,0 +1,15 @@
+D:\C#\Problem\ObjectListToDictionary\ObjectListToDictionary\bin\Debug\net8.0\ObjectListToDictionary.exe
+D:\C#\Problem\ObjectListToDictionary\ObjectListToDictionary\bin\Debug\net8.0\ObjectListToDictionary.deps.json
+D:\C#\Problem\ObjectListToDictionary\ObjectListToDictionary\bin\Debug\net8.0\ObjectListToDictionary.runtimeconfig.json
+D:\C#\Problem\ObjectListToDictionary\ObjectListToDictionary\bin\Debug\net8.0\ObjectListToDictionary.dll
+D:\C#\Problem\ObjectListToDictionary\ObjectListToDictionary\bin\Debug\net8.0\ObjectListToDictionary.pdb
+D:\C#\Problem\ObjectListToDictionary\ObjectListToDictionary\obj\Debug\net8.0\ObjectListToDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Problem\ObjectListToDictionary\ObjectListToDictionary\obj\Debug\net8.0\ObjectListToDictionary.AssemblyInfoInputs.cache
+D:\C#\Problem\ObjectListToDictionary\ObjectListToDictionary\obj\Debug\net8.0\ObjectListToDictionary.AssemblyInfo.cs
+D:\C#\Problem\ObjectListToDictionary\ObjectListToDictionary\obj\Debug\net8.0\ObjectListToDictionary.csproj.CoreCompileInputs.cache
+D:\C#\Problem\ObjectListToDictionary\ObjectListToDictionary\obj\Debug\net8.0\ObjectListToDictionary.sourcelink.json
+D:\C#\Problem\ObjectListToDictionary\ObjectListToDictionary\obj\Debug\net8.0\ObjectListToDictionary.dll
+D:\C#\Problem\ObjectListToDictionary\ObjectListToDictionary\obj\Debug\net8.0\refint\ObjectListToDictionary.dll
+D:\C#\Problem\ObjectListToDictionary\ObjectListToDictionary\obj\Debug\net8.0\ObjectListToDictionary.pdb
+D:\C#\Problem\ObjectListToDictionary\ObjectListToDictionary\obj\Debug\net8.0\ObjectListToDictionary.genruntimeconfig.cache
+D:\C#\Problem\ObjectListToDictionary\ObjectListToDictionary\obj\Debug\net8.0\ref\ObjectListToDictionary.dll

@@ -1,0 +1,15 @@
+D:\C#\Pratice\ValueTypeVSReferenceType\bin\Debug\net8.0\ValueTypeVSReferenceType.exe
+D:\C#\Pratice\ValueTypeVSReferenceType\bin\Debug\net8.0\ValueTypeVSReferenceType.deps.json
+D:\C#\Pratice\ValueTypeVSReferenceType\bin\Debug\net8.0\ValueTypeVSReferenceType.runtimeconfig.json
+D:\C#\Pratice\ValueTypeVSReferenceType\bin\Debug\net8.0\ValueTypeVSReferenceType.dll
+D:\C#\Pratice\ValueTypeVSReferenceType\bin\Debug\net8.0\ValueTypeVSReferenceType.pdb
+D:\C#\Pratice\ValueTypeVSReferenceType\obj\Debug\net8.0\ValueTypeVSReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Pratice\ValueTypeVSReferenceType\obj\Debug\net8.0\ValueTypeVSReferenceType.AssemblyInfoInputs.cache
+D:\C#\Pratice\ValueTypeVSReferenceType\obj\Debug\net8.0\ValueTypeVSReferenceType.AssemblyInfo.cs
+D:\C#\Pratice\ValueTypeVSReferenceType\obj\Debug\net8.0\ValueTypeVSReferenceType.csproj.CoreCompileInputs.cache
+D:\C#\Pratice\ValueTypeVSReferenceType\obj\Debug\net8.0\ValueTypeVSReferenceType.sourcelink.json
+D:\C#\Pratice\ValueTypeVSReferenceType\obj\Debug\net8.0\ValueTypeVSReferenceType.dll
+D:\C#\Pratice\ValueTypeVSReferenceType\obj\Debug\net8.0\refint\ValueTypeVSReferenceType.dll
+D:\C#\Pratice\ValueTypeVSReferenceType\obj\Debug\net8.0\ValueTypeVSReferenceType.pdb
+D:\C#\Pratice\ValueTypeVSReferenceType\obj\Debug\net8.0\ValueTypeVSReferenceType.genruntimeconfig.cache
+D:\C#\Pratice\ValueTypeVSReferenceType\obj\Debug\net8.0\ref\ValueTypeVSReferenceType.dll

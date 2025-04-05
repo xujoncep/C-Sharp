@@ -1,0 +1,15 @@
+D:\C#\Pratice\C-Sharp-String\bin\Debug\net8.0\C-Sharp-String.exe
+D:\C#\Pratice\C-Sharp-String\bin\Debug\net8.0\C-Sharp-String.deps.json
+D:\C#\Pratice\C-Sharp-String\bin\Debug\net8.0\C-Sharp-String.runtimeconfig.json
+D:\C#\Pratice\C-Sharp-String\bin\Debug\net8.0\C-Sharp-String.dll
+D:\C#\Pratice\C-Sharp-String\bin\Debug\net8.0\C-Sharp-String.pdb
+D:\C#\Pratice\C-Sharp-String\obj\Debug\net8.0\C-Sharp-String.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Pratice\C-Sharp-String\obj\Debug\net8.0\C-Sharp-String.AssemblyInfoInputs.cache
+D:\C#\Pratice\C-Sharp-String\obj\Debug\net8.0\C-Sharp-String.AssemblyInfo.cs
+D:\C#\Pratice\C-Sharp-String\obj\Debug\net8.0\C-Sharp-String.csproj.CoreCompileInputs.cache
+D:\C#\Pratice\C-Sharp-String\obj\Debug\net8.0\C-Sharp-String.sourcelink.json
+D:\C#\Pratice\C-Sharp-String\obj\Debug\net8.0\C-Sharp-String.dll
+D:\C#\Pratice\C-Sharp-String\obj\Debug\net8.0\refint\C-Sharp-String.dll
+D:\C#\Pratice\C-Sharp-String\obj\Debug\net8.0\C-Sharp-String.pdb
+D:\C#\Pratice\C-Sharp-String\obj\Debug\net8.0\C-Sharp-String.genruntimeconfig.cache
+D:\C#\Pratice\C-Sharp-String\obj\Debug\net8.0\ref\C-Sharp-String.dll

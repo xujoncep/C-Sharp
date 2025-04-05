@@ -1,0 +1,15 @@
+D:\C#\Pratice\C-Sharp-DateTime\bin\Debug\net8.0\C-Sharp-DateTime.exe
+D:\C#\Pratice\C-Sharp-DateTime\bin\Debug\net8.0\C-Sharp-DateTime.deps.json
+D:\C#\Pratice\C-Sharp-DateTime\bin\Debug\net8.0\C-Sharp-DateTime.runtimeconfig.json
+D:\C#\Pratice\C-Sharp-DateTime\bin\Debug\net8.0\C-Sharp-DateTime.dll
+D:\C#\Pratice\C-Sharp-DateTime\bin\Debug\net8.0\C-Sharp-DateTime.pdb
+D:\C#\Pratice\C-Sharp-DateTime\obj\Debug\net8.0\C-Sharp-DateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Pratice\C-Sharp-DateTime\obj\Debug\net8.0\C-Sharp-DateTime.AssemblyInfoInputs.cache
+D:\C#\Pratice\C-Sharp-DateTime\obj\Debug\net8.0\C-Sharp-DateTime.AssemblyInfo.cs
+D:\C#\Pratice\C-Sharp-DateTime\obj\Debug\net8.0\C-Sharp-DateTime.csproj.CoreCompileInputs.cache
+D:\C#\Pratice\C-Sharp-DateTime\obj\Debug\net8.0\C-Sharp-DateTime.sourcelink.json
+D:\C#\Pratice\C-Sharp-DateTime\obj\Debug\net8.0\C-Sharp-DateTime.dll
+D:\C#\Pratice\C-Sharp-DateTime\obj\Debug\net8.0\refint\C-Sharp-DateTime.dll
+D:\C#\Pratice\C-Sharp-DateTime\obj\Debug\net8.0\C-Sharp-DateTime.pdb
+D:\C#\Pratice\C-Sharp-DateTime\obj\Debug\net8.0\C-Sharp-DateTime.genruntimeconfig.cache
+D:\C#\Pratice\C-Sharp-DateTime\obj\Debug\net8.0\ref\C-Sharp-DateTime.dll

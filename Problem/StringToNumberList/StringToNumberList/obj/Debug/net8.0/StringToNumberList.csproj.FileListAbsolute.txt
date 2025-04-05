@@ -1,0 +1,15 @@
+D:\C#\Problem\StringToNumberList\StringToNumberList\bin\Debug\net8.0\StringToNumberList.exe
+D:\C#\Problem\StringToNumberList\StringToNumberList\bin\Debug\net8.0\StringToNumberList.deps.json
+D:\C#\Problem\StringToNumberList\StringToNumberList\bin\Debug\net8.0\StringToNumberList.runtimeconfig.json
+D:\C#\Problem\StringToNumberList\StringToNumberList\bin\Debug\net8.0\StringToNumberList.dll
+D:\C#\Problem\StringToNumberList\StringToNumberList\bin\Debug\net8.0\StringToNumberList.pdb
+D:\C#\Problem\StringToNumberList\StringToNumberList\obj\Debug\net8.0\StringToNumberList.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Problem\StringToNumberList\StringToNumberList\obj\Debug\net8.0\StringToNumberList.AssemblyInfoInputs.cache
+D:\C#\Problem\StringToNumberList\StringToNumberList\obj\Debug\net8.0\StringToNumberList.AssemblyInfo.cs
+D:\C#\Problem\StringToNumberList\StringToNumberList\obj\Debug\net8.0\StringToNumberList.csproj.CoreCompileInputs.cache
+D:\C#\Problem\StringToNumberList\StringToNumberList\obj\Debug\net8.0\StringToNumberList.sourcelink.json
+D:\C#\Problem\StringToNumberList\StringToNumberList\obj\Debug\net8.0\StringToNumberList.dll
+D:\C#\Problem\StringToNumberList\StringToNumberList\obj\Debug\net8.0\refint\StringToNumberList.dll
+D:\C#\Problem\StringToNumberList\StringToNumberList\obj\Debug\net8.0\StringToNumberList.pdb
+D:\C#\Problem\StringToNumberList\StringToNumberList\obj\Debug\net8.0\StringToNumberList.genruntimeconfig.cache
+D:\C#\Problem\StringToNumberList\StringToNumberList\obj\Debug\net8.0\ref\StringToNumberList.dll

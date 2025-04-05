@@ -1,0 +1,15 @@
+D:\C#\Problem\SpotTest-01\Spot-Test-2\bin\Debug\net8.0\Spot-Test-2.exe
+D:\C#\Problem\SpotTest-01\Spot-Test-2\bin\Debug\net8.0\Spot-Test-2.deps.json
+D:\C#\Problem\SpotTest-01\Spot-Test-2\bin\Debug\net8.0\Spot-Test-2.runtimeconfig.json
+D:\C#\Problem\SpotTest-01\Spot-Test-2\bin\Debug\net8.0\Spot-Test-2.dll
+D:\C#\Problem\SpotTest-01\Spot-Test-2\bin\Debug\net8.0\Spot-Test-2.pdb
+D:\C#\Problem\SpotTest-01\Spot-Test-2\obj\Debug\net8.0\Spot-Test-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Problem\SpotTest-01\Spot-Test-2\obj\Debug\net8.0\Spot-Test-2.AssemblyInfoInputs.cache
+D:\C#\Problem\SpotTest-01\Spot-Test-2\obj\Debug\net8.0\Spot-Test-2.AssemblyInfo.cs
+D:\C#\Problem\SpotTest-01\Spot-Test-2\obj\Debug\net8.0\Spot-Test-2.csproj.CoreCompileInputs.cache
+D:\C#\Problem\SpotTest-01\Spot-Test-2\obj\Debug\net8.0\Spot-Test-2.sourcelink.json
+D:\C#\Problem\SpotTest-01\Spot-Test-2\obj\Debug\net8.0\Spot-Test-2.dll
+D:\C#\Problem\SpotTest-01\Spot-Test-2\obj\Debug\net8.0\refint\Spot-Test-2.dll
+D:\C#\Problem\SpotTest-01\Spot-Test-2\obj\Debug\net8.0\Spot-Test-2.pdb
+D:\C#\Problem\SpotTest-01\Spot-Test-2\obj\Debug\net8.0\Spot-Test-2.genruntimeconfig.cache
+D:\C#\Problem\SpotTest-01\Spot-Test-2\obj\Debug\net8.0\ref\Spot-Test-2.dll

@@ -1,0 +1,15 @@
+D:\C#\Pratice\LinkedList\bin\Debug\net8.0\LinkedList.exe
+D:\C#\Pratice\LinkedList\bin\Debug\net8.0\LinkedList.deps.json
+D:\C#\Pratice\LinkedList\bin\Debug\net8.0\LinkedList.runtimeconfig.json
+D:\C#\Pratice\LinkedList\bin\Debug\net8.0\LinkedList.dll
+D:\C#\Pratice\LinkedList\bin\Debug\net8.0\LinkedList.pdb
+D:\C#\Pratice\LinkedList\obj\Debug\net8.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Pratice\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfoInputs.cache
+D:\C#\Pratice\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfo.cs
+D:\C#\Pratice\LinkedList\obj\Debug\net8.0\LinkedList.csproj.CoreCompileInputs.cache
+D:\C#\Pratice\LinkedList\obj\Debug\net8.0\LinkedList.sourcelink.json
+D:\C#\Pratice\LinkedList\obj\Debug\net8.0\LinkedList.dll
+D:\C#\Pratice\LinkedList\obj\Debug\net8.0\refint\LinkedList.dll
+D:\C#\Pratice\LinkedList\obj\Debug\net8.0\LinkedList.pdb
+D:\C#\Pratice\LinkedList\obj\Debug\net8.0\LinkedList.genruntimeconfig.cache
+D:\C#\Pratice\LinkedList\obj\Debug\net8.0\ref\LinkedList.dll

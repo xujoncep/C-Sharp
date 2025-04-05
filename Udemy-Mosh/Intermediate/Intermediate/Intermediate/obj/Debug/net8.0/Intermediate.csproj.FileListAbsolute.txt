@@ -1,0 +1,15 @@
+D:\C#\Udemy-Mosh\Intermediate\Intermediate\Intermediate\bin\Debug\net8.0\Intermediate.exe
+D:\C#\Udemy-Mosh\Intermediate\Intermediate\Intermediate\bin\Debug\net8.0\Intermediate.deps.json
+D:\C#\Udemy-Mosh\Intermediate\Intermediate\Intermediate\bin\Debug\net8.0\Intermediate.runtimeconfig.json
+D:\C#\Udemy-Mosh\Intermediate\Intermediate\Intermediate\bin\Debug\net8.0\Intermediate.dll
+D:\C#\Udemy-Mosh\Intermediate\Intermediate\Intermediate\bin\Debug\net8.0\Intermediate.pdb
+D:\C#\Udemy-Mosh\Intermediate\Intermediate\Intermediate\obj\Debug\net8.0\Intermediate.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Udemy-Mosh\Intermediate\Intermediate\Intermediate\obj\Debug\net8.0\Intermediate.AssemblyInfoInputs.cache
+D:\C#\Udemy-Mosh\Intermediate\Intermediate\Intermediate\obj\Debug\net8.0\Intermediate.AssemblyInfo.cs
+D:\C#\Udemy-Mosh\Intermediate\Intermediate\Intermediate\obj\Debug\net8.0\Intermediate.csproj.CoreCompileInputs.cache
+D:\C#\Udemy-Mosh\Intermediate\Intermediate\Intermediate\obj\Debug\net8.0\Intermediate.sourcelink.json
+D:\C#\Udemy-Mosh\Intermediate\Intermediate\Intermediate\obj\Debug\net8.0\Intermediate.dll
+D:\C#\Udemy-Mosh\Intermediate\Intermediate\Intermediate\obj\Debug\net8.0\refint\Intermediate.dll
+D:\C#\Udemy-Mosh\Intermediate\Intermediate\Intermediate\obj\Debug\net8.0\Intermediate.pdb
+D:\C#\Udemy-Mosh\Intermediate\Intermediate\Intermediate\obj\Debug\net8.0\Intermediate.genruntimeconfig.cache
+D:\C#\Udemy-Mosh\Intermediate\Intermediate\Intermediate\obj\Debug\net8.0\ref\Intermediate.dll

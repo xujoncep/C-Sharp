@@ -1,0 +1,15 @@
+D:\C#\Pratice\RawStringVsVerbatrim\bin\Debug\net8.0\RawStringVsVerbatrim.exe
+D:\C#\Pratice\RawStringVsVerbatrim\bin\Debug\net8.0\RawStringVsVerbatrim.deps.json
+D:\C#\Pratice\RawStringVsVerbatrim\bin\Debug\net8.0\RawStringVsVerbatrim.runtimeconfig.json
+D:\C#\Pratice\RawStringVsVerbatrim\bin\Debug\net8.0\RawStringVsVerbatrim.dll
+D:\C#\Pratice\RawStringVsVerbatrim\bin\Debug\net8.0\RawStringVsVerbatrim.pdb
+D:\C#\Pratice\RawStringVsVerbatrim\obj\Debug\net8.0\RawStringVsVerbatrim.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Pratice\RawStringVsVerbatrim\obj\Debug\net8.0\RawStringVsVerbatrim.AssemblyInfoInputs.cache
+D:\C#\Pratice\RawStringVsVerbatrim\obj\Debug\net8.0\RawStringVsVerbatrim.AssemblyInfo.cs
+D:\C#\Pratice\RawStringVsVerbatrim\obj\Debug\net8.0\RawStringVsVerbatrim.csproj.CoreCompileInputs.cache
+D:\C#\Pratice\RawStringVsVerbatrim\obj\Debug\net8.0\RawStringVsVerbatrim.sourcelink.json
+D:\C#\Pratice\RawStringVsVerbatrim\obj\Debug\net8.0\RawStringVsVerbatrim.dll
+D:\C#\Pratice\RawStringVsVerbatrim\obj\Debug\net8.0\refint\RawStringVsVerbatrim.dll
+D:\C#\Pratice\RawStringVsVerbatrim\obj\Debug\net8.0\RawStringVsVerbatrim.pdb
+D:\C#\Pratice\RawStringVsVerbatrim\obj\Debug\net8.0\RawStringVsVerbatrim.genruntimeconfig.cache
+D:\C#\Pratice\RawStringVsVerbatrim\obj\Debug\net8.0\ref\RawStringVsVerbatrim.dll

@@ -1,0 +1,15 @@
+D:\C#\Pratice\Ref-In-Out\bin\Debug\net8.0\Ref-In-Out.exe
+D:\C#\Pratice\Ref-In-Out\bin\Debug\net8.0\Ref-In-Out.deps.json
+D:\C#\Pratice\Ref-In-Out\bin\Debug\net8.0\Ref-In-Out.runtimeconfig.json
+D:\C#\Pratice\Ref-In-Out\bin\Debug\net8.0\Ref-In-Out.dll
+D:\C#\Pratice\Ref-In-Out\bin\Debug\net8.0\Ref-In-Out.pdb
+D:\C#\Pratice\Ref-In-Out\obj\Debug\net8.0\Ref-In-Out.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Pratice\Ref-In-Out\obj\Debug\net8.0\Ref-In-Out.AssemblyInfoInputs.cache
+D:\C#\Pratice\Ref-In-Out\obj\Debug\net8.0\Ref-In-Out.AssemblyInfo.cs
+D:\C#\Pratice\Ref-In-Out\obj\Debug\net8.0\Ref-In-Out.csproj.CoreCompileInputs.cache
+D:\C#\Pratice\Ref-In-Out\obj\Debug\net8.0\Ref-In-Out.sourcelink.json
+D:\C#\Pratice\Ref-In-Out\obj\Debug\net8.0\Ref-In-Out.dll
+D:\C#\Pratice\Ref-In-Out\obj\Debug\net8.0\refint\Ref-In-Out.dll
+D:\C#\Pratice\Ref-In-Out\obj\Debug\net8.0\Ref-In-Out.pdb
+D:\C#\Pratice\Ref-In-Out\obj\Debug\net8.0\Ref-In-Out.genruntimeconfig.cache
+D:\C#\Pratice\Ref-In-Out\obj\Debug\net8.0\ref\Ref-In-Out.dll

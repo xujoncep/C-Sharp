@@ -1,0 +1,15 @@
+D:\C#\Udemy-Mosh\Fundamental\Fundamental\bin\Debug\net8.0\Fundamental.exe
+D:\C#\Udemy-Mosh\Fundamental\Fundamental\bin\Debug\net8.0\Fundamental.deps.json
+D:\C#\Udemy-Mosh\Fundamental\Fundamental\bin\Debug\net8.0\Fundamental.runtimeconfig.json
+D:\C#\Udemy-Mosh\Fundamental\Fundamental\bin\Debug\net8.0\Fundamental.dll
+D:\C#\Udemy-Mosh\Fundamental\Fundamental\bin\Debug\net8.0\Fundamental.pdb
+D:\C#\Udemy-Mosh\Fundamental\Fundamental\obj\Debug\net8.0\Fundamental.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Udemy-Mosh\Fundamental\Fundamental\obj\Debug\net8.0\Fundamental.AssemblyInfoInputs.cache
+D:\C#\Udemy-Mosh\Fundamental\Fundamental\obj\Debug\net8.0\Fundamental.AssemblyInfo.cs
+D:\C#\Udemy-Mosh\Fundamental\Fundamental\obj\Debug\net8.0\Fundamental.csproj.CoreCompileInputs.cache
+D:\C#\Udemy-Mosh\Fundamental\Fundamental\obj\Debug\net8.0\Fundamental.sourcelink.json
+D:\C#\Udemy-Mosh\Fundamental\Fundamental\obj\Debug\net8.0\Fundamental.dll
+D:\C#\Udemy-Mosh\Fundamental\Fundamental\obj\Debug\net8.0\refint\Fundamental.dll
+D:\C#\Udemy-Mosh\Fundamental\Fundamental\obj\Debug\net8.0\Fundamental.pdb
+D:\C#\Udemy-Mosh\Fundamental\Fundamental\obj\Debug\net8.0\Fundamental.genruntimeconfig.cache
+D:\C#\Udemy-Mosh\Fundamental\Fundamental\obj\Debug\net8.0\ref\Fundamental.dll
